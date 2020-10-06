@@ -1,0 +1,19 @@
+img {
+    width: 30vw;
+    height: 30vh;
+    object-fit: cover;
+}
+
+#mainDiv{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: space-around;
+    //border: 2px solid lime;
+}
+
+.flexItem{
+    //border: 2px solid red;
+    //flex-basis: 30%;   
+
+}
