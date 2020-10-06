@@ -14,4 +14,17 @@ $(document).ready(function() {
     
     });
 
+
+//$(".image1").addClass("hidden");
+
+$(".image1").on("click", function(event) {
+
+    $(this).toggleClass("hidden")
+       
+        console.log(event.target);
+
+} )
+
 });
+
+

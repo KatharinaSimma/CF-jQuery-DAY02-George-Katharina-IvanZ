@@ -1,5 +1,6 @@
 img {
-    width: 30vw;
+    width: 10vw;
+    
 }
 
 .gift {
@@ -11,4 +12,10 @@ h1 {
     font-size: 400%;
     text-align: center;
     color: red;
+}
+
+.hidden {
+
+		visibility: hidden;
+
 }
